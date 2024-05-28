@@ -5,6 +5,10 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiClinica", "ApiClinica.csproj", "{8E85EAD7-CD91-4595-B4B7-DEF6FB1FE011}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "..\Entidades\Entidades.csproj", "{12F1E1F6-FEED-48C4-AD04-FD3EA0F81513}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servicios", "..\Servicios\Servicios.csproj", "{1E0BC7FD-D6F2-4EFA-9690-CF1BF644C9A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{8E85EAD7-CD91-4595-B4B7-DEF6FB1FE011}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E85EAD7-CD91-4595-B4B7-DEF6FB1FE011}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E85EAD7-CD91-4595-B4B7-DEF6FB1FE011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12F1E1F6-FEED-48C4-AD04-FD3EA0F81513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F1E1F6-FEED-48C4-AD04-FD3EA0F81513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F1E1F6-FEED-48C4-AD04-FD3EA0F81513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F1E1F6-FEED-48C4-AD04-FD3EA0F81513}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E0BC7FD-D6F2-4EFA-9690-CF1BF644C9A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E0BC7FD-D6F2-4EFA-9690-CF1BF644C9A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E0BC7FD-D6F2-4EFA-9690-CF1BF644C9A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E0BC7FD-D6F2-4EFA-9690-CF1BF644C9A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
