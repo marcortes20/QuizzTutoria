@@ -53,7 +53,7 @@ Implementar métodos `POST` y `GET` para cada entidad.
 
 - Implementar los métodos `PUT`, `DELETE` y `GetById` en todos los controladores.
 - El método `GET` de Clínica debe devolver la información de la clínica, de los usuarios que pertenecen a la misma y de sus expedientes médicos.
-- El método `GET` de Sucursal debe devolver información de la clínica a la que pertenece.
+
 
 ## Recursos
 
